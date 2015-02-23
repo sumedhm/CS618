@@ -1,0 +1,8 @@
+quadtree.cpp
+	- This file contains all functions related to Quad Tree
+quadtree.out
+	- Time statistics are stored in this file for Quad Tree
+kdtree.cpp
+	- This file contains all functions related to K-d Tree
+kdtree.out
+	- Time statistics are stored in this file for K-d Tree

@@ -1,0 +1,82 @@
+\n\n\r\r:::::::::::::::::::::::New Stats::::::::::::::::::::::::::
+Part 1 statistics:
+Min - 1.5e-05
+Max - 4.4e-05
+Average - 1.6527e-05
+Standard deviation - 1.86206095496e-06
+------------------
+Part 2 statistics:
+Min - 1.9e-05
+Max - 7.7e-05
+Average - 2.393e-05
+Standard deviation - 3.70878686365e-06
+------------------
+
+
+Part 5 statistics:
+##############   10% r  ##################
+Min - 1.6e-05
+Max - 0.000132
+Average - 3.1424e-05
+Standard deviation - 8.19501214154e-06
+
+
+##############   20% r  ##################
+Min - 1.6e-05
+Max - 9e-05
+Average - 2.8937e-05
+Standard deviation - 7.58927078183e-06
+
+
+##############   30% r  ##################
+Min - 1.5e-05
+Max - 0.000209
+Average - 2.7463e-05
+Standard deviation - 1.17650597534e-05
+
+
+##############   40% r  ##################
+Min - 1.5e-05
+Max - 9.4e-05
+Average - 2.5005e-05
+Standard deviation - 7.55003145689e-06
+
+
+##############   50% r  ##################
+Min - 1.5e-05
+Max - 9.9e-05
+Average - 2.3671e-05
+Standard deviation - 7.68705138528e-06
+
+
+##############   60% r  ##################
+Min - 1.5e-05
+Max - 0.000151
+Average - 2.6141e-05
+Standard deviation - 1.47955776839e-05
+
+
+##############   70% r  ##################
+Min - 1.5e-05
+Max - 0.000142
+Average - 2.3962e-05
+Standard deviation - 1.10502740238e-05
+
+
+##############   80% r  ##################
+Min - 1.5e-05
+Max - 6.6e-05
+Average - 2.148e-05
+Standard deviation - 7.5075695135e-06
+
+
+##############   90% r  ##################
+Min - 1.5e-05
+Max - 8.6e-05
+Average - 1.7481e-05
+Standard deviation - 5.01175009353e-06
+
+
+------------------
+
+

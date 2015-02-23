@@ -1,0 +1,80 @@
+\documentclass[a4paper]{article}
+
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[colorinlistoftodos]{todonotes}
+
+\title{Assignment 2 - CS618A}
+
+\author{Sumedh Masulkar\\sumedh@,11736}
+
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\section{System Configuration}
+\begin{itemize}
+	\item{Processor:} Intel(R) Core(TM) i3-2310M CPU @ 2.10GHz
+    \item{Memory:} 3 GB
+\end{itemize}
+
+\section{Results}
+Following table shows time statistics for Region Quad Tree and Region K-d Tree  after insertion of $10^6$ nodes in each tree and followed by 5000 queries.
+
+\end{document}
+
+
+
+
+
+
+
+
+\section{Results}
+Following table shows time statistics for Region Quad Tree and Region K-d Tree  after insertion of $10^6$ nodes in each tree and followed by 5000 queries.
+
+\begin{table}
+\hline
+\begin{tabular}{|c|c|c|c|c|}
+ & Minimum & Maximum & Mean & Standard Deviation
+ \hline \hline
+Insertion & 0.002 & 0.033 & 0.005842 & 0.00251019 
+\hline
+Point Query & 0.002 & 0.013 & 0.00434 & 0.00143192
+\hline
+Range Query & 0.005 & 514.071 & 250.154 & 144.087
+\hline
+kNN Query & 0.174 & 58.104 & 17.506 & 9.1818
+\hline
+Window Query & 0.011 & 278.619 & 36.0038 && 38.4292
+\hline
+\end{tabular}
+
+\end{table}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
