@@ -1,0 +1,19 @@
+All stats in milliseconds.
+
+Point Search stats:
+min - 0.039
+max - 0.039
+mean - 0.039
+standard deviation - 0
+
+Range Search stats:
+min - 0.294
+max - 0.294
+mean - 0.294
+standard deviation - 0
+
+knn Search stats:
+min - 0.437
+max - 0.437
+mean - 0.437
+standard deviation - 0

@@ -356,7 +356,7 @@ void query(string query_line, int flag){
 		root->search(args[1],args[2], &res);
 		end = clock();
 		search_times.push_back(((double) (end - start)) * 1000 / CLOCKS_PER_SEC);
-		if(res==0) {} //cout << "Not found: (" << args[1] << "," << args[2] << ")" << endl;
+		if(res==0) cout << "Not found: (" << args[1] << "," << args[2] << ")" << endl;
 		else cout << "(" << args[1] << "," << args[2] << ")" << endl;
 	} else if(args[0]==2){
 		list<QuadTree*> res;
@@ -417,13 +417,13 @@ int main(){
 	root->dl = new Point(0,0);
 	root->dr = new Point(1,1);
 	string query_line;
-	ifstream file1("assgn2data.txt");
+	ifstream file1("assgn2testdata_5.txt");
 	if(file1.is_open()){
 		while(getline(file1, query_line)){
 			query("0	" + query_line, 0);
 		}
 	} else cout << "Error opening file1.." << endl;
-	ifstream file("assgn2querysample.txt");
+	ifstream file("assgn2testquery_5.txt");
 	//ifstream file("q.txt");
 	if(file.is_open()){
 		while(getline(file, query_line)){

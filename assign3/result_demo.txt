@@ -1,0 +1,25 @@
+--------------query-0---------------
+minimum	127ns
+maximum	1316ns
+avg	257.704ns
+sdev	148.154ns
+--------------query-1---------------
+minimum	105ns
+maximum	1405ns
+avg	268.046ns
+sdev	148.707ns
+--------------query-2---------------
+minimum	345ns
+maximum	376810ns
+avg	146660ns
+sdev	78063ns
+--------------query-3---------------
+minimum	165ns
+maximum	25234ns
+avg	6753.96ns
+sdev	6566.38ns
+--------------query-4---------------
+minimum	2706ns
+maximum	274525ns
+avg	106614ns
+sdev	53221.4ns

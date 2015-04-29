@@ -1,0 +1,31 @@
+All stats in milliseconds.
+
+Insertion stats:
+min - 0.078
+max - 1.28
+mean - 0.167046
+standard deviation - 0.0871546
+
+Point Search stats:
+min - 0.079
+max - 0.42
+mean - 0.115863
+standard deviation - 0.0271372
+
+Range Search stats:
+min - 0.108
+max - 71.746
+mean - 11.9765
+standard deviation - 9.53563
+
+knn Search stats:
+min - 0.149
+max - 1.76
+mean - 0.609726
+standard deviation - 0.279323
+
+Window Search stats:
+min - 0.081
+max - 2.725
+mean - 0.660514
+standard deviation - 0.347277

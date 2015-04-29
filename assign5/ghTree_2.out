@@ -1,0 +1,24 @@
+
+Range Search stats:
+min - 0
+max - 10
+mean - 0.03
+standard deviation - 0.5469
+
+Range Search Distance stats:
+min - 96
+max - 206
+mean - 119.637
+standard deviation - 14.888
+
+knn Search stats:
+min - 0
+max - 350
+mean - 130.49
+standard deviation - 88.0356
+
+knn-search Distance stats:
+min - 0
+max - 2.03485e+06
+mean - 748337
+standard deviation - 507228

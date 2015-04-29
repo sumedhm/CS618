@@ -240,7 +240,7 @@ void insert(int node, int val, string object, stack<int>& parent){
 			} 
 			else if(buff[seek]==val) return;	//Already present.
 			else {
-				seek+=2;				
+				seek+=2;			
 			}
 		}
 		/*sprintf(file, "node%d.bin", node);
